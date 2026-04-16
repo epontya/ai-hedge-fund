@@ -29,6 +29,8 @@ This system employs several agents working together:
 Note: the system does not actually make any trades.
 
 > **Personal note:** I'm using this project to study how different investing philosophies can be modeled as AI agents. My main interest is comparing value-oriented agents (Graham, Munger, Buffett) against growth-oriented ones (Cathie Wood, Phil Fisher) across different market conditions.
+>
+> **Agents I'm focusing on:** Graham, Munger, Buffett, and Phil Fisher — running them against tech stocks to see where they agree or diverge.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
 
@@ -43,12 +45,3 @@ This project is for **educational and research purposes only**.
 - Past performance does not indicate future results
 
 By using this software, you agree to use it solely for learning purposes.
-
-## Table of Contents
-- [How to Install](#how-to-install)
-- [How to Run](#how-to-run)
-  - [⌨️ Command Line Interface](#️-command-line-interface)
-  - [🖥️ Web Application](#️-web-application)
-- [How to Contribute](#how-to-contribute)
-- [Feature Requests](#feature-requests)
-- [License](#licens
