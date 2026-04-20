@@ -104,25 +104,8 @@ OPENAI_API_KEY=your-openai-api-key
 # For running LLMs hosted by groq (deepseek, llama3, etc.)
 GROQ_API_KEY=your-groq-api-key
 
-# For getting financial data
+# For getting financial data (required for stock prices, fundamentals, etc.)
 FINANCIAL_DATASETS_API_KEY=your-financial-datasets-api-key
 ```
 
-> **Note (personal):** I've found that setting up `FINANCIAL_DATASETS_API_KEY` is the most commonly missed step — the app will start fine without it but several agents will silently fail to fetch data.
-
-### Running the Application
-
-See the Quick Start section above or refer to the individual `app/frontend/README.md` and `app/backend/README.md` files for component-specific instructions.
-
-## Detailed Documentation
-
-- [Frontend README](frontend/README.md)
-- [Backend README](backend/README.md)
-
-## Disclaimer
-
-This project is for **educational and research purposes only**. It is not intended to be used as actual financial advice or for real trading. Always do your own research before making any investment decisions.
-
-## Troubleshooting
-
-If you encounter issues, please check the individual component READMEs or open an issue on the repository.
+> **Note (personal):** I've found that having at least `OPENAI_API_KEY` and `FINANCIAL_DATASETS_API_KEY` set is the minimum needed to get meaningful results out of the system. The Groq key is optional if you only plan to use OpenAI models.
