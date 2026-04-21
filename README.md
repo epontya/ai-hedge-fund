@@ -34,13 +34,6 @@ Note: the system does not actually make any trades.
 >
 > **My test tickers:** AAPL, MSFT, NVDA, GOOG — a mix of established and high-growth tech to stress-test the value vs. growth divide.
 >
-> **Observations so far:** Graham and Munger tend to flag NVDA as overvalued relative to earnings, while Phil Fisher and Cathie Wood lean bullish on it. Buffett agents sit somewhere in between depending on the lookback window used. Interesting divergence worth digging into further.
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
-
-## Disclaimer
-
-This project is for **educational and research purposes only**.
-
-- Not intended for real trading or investment
--
+> **Observations so far:** Graham and Munger tend to flag NVDA as overvalued relative to earnings, while Phil Fisher and Cathie Wood lean bullish on it. Buffett agents sit somewhere in between depending on the lookback window used. Interesting that MSFT gets a relatively warmer reception from value agents than AAPL — likely due to the recurring revenue profile of Azure.
+>
+> **Next experiment:** Extend the lookback window from 1 year to 3 years and re-run on NVDA to see if the value agents soften their stance once the earnings growth trajectory is more visible in the data.
