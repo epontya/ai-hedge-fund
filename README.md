@@ -33,6 +33,8 @@ Note: the system does not actually make any trades.
 > **Agents I'm focusing on:** Graham, Munger, Buffett, and Phil Fisher — running them against tech stocks to see where they agree or diverge.
 >
 > **My test tickers:** AAPL, MSFT, NVDA, GOOG — a mix of established and high-growth tech to stress-test the value vs. growth divide.
+>
+> **Observations so far:** Graham and Munger tend to flag NVDA as overvalued relative to earnings, while Phil Fisher and Cathie Wood lean bullish on it. Buffett agents sit somewhere in between depending on the lookback window used. Interesting divergence worth digging into further.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
 
@@ -41,6 +43,4 @@ Note: the system does not actually make any trades.
 This project is for **educational and research purposes only**.
 
 - Not intended for real trading or investment
-- No investment advice or guarantees provided
-- Creator assumes no liability for financial losses
-- Consult a financial advisor for inves
+-
